@@ -1,0 +1,5 @@
+dataset_config:
+    prompt_template: null
+    prompt: "<p:USER: Audio: ><speech><p:.\nWhat is being said in the preceding audio?\n ASSISTANT>:"
+
+

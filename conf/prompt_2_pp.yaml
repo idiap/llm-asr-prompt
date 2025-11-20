@@ -1,0 +1,3 @@
+dataset_config:
+    prompt_template: null
+    prompt: "<p:USER: Transcribe speech to text. Speech: ><speech><p:.\n ASSISTANT>:"

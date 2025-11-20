@@ -1,0 +1,5 @@
+dataset_config:
+    prompt_template: "USER: {prompt}\n ASSISTANT:"
+    prompt: "Audio: <speech>.\nTranscribe the preceding audio."
+
+

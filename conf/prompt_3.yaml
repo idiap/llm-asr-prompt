@@ -1,0 +1,3 @@
+dataset_config:
+    prompt_template: "USER: {prompt}\n ASSISTANT:"
+    prompt: "Transcribe the following speech to text: <speech>."
