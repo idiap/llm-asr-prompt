@@ -44,7 +44,7 @@ Added the following settings to `train_config`:
 - `save_checkpoint_only_at_epoch_end` (bool): Save checkpoints only at the end of each epoch instead of at every checkpoint interval.
 - `freeze_projector` (bool): Freeze the projector module during training.
 - `use_bf16` (bool): Enable bfloat16 training format.
-- `peft_config.peft_method`: Added support for `"p-projector"` and `"p-tuning"` as valid PEFT methods.
+- `peft_config.peft_method`: Added support for `"p-projector"` as valid PEFT method.
 - `prompt_token` (str): Token used to mark learnable positions in prompts (default: `"<p>"`).
 - `prompt_num_virtual_tokens` (int): Number of virtual tokens for "prefix" method.
 
@@ -54,7 +54,7 @@ Added the following settings to `train_config`:
 We modified the original HuggingFace PEFT library to add:
 
 - **P_PROJECTOR**: A new PEFT type that implements our prompt projector mechanism.
-- **User-provided embedding initialization**: Support for initializing prompt embeddings with custom embeddings via the `virtual_token_embs` parameter in p-tuning as well as in our p-projector.
+- **User-provided embedding initialization**: Support for initializing prompt embeddings with custom embeddings via the `virtual_token_embs` parameter in `PromptEncoder`.
 
 
 ## 🚀 Installation
