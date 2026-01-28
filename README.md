@@ -1,11 +1,18 @@
 # Reducing Prompt Sensitivity in LLM-based Speech Recognition Through Learnable Projection
 
+<div align="center">
+  <img src="intuition.png" height="400">
+  <p><em>In a typical LLM-based ASR system, speech is passed through a speech encoder and converted into a sequence of embeddings (<span style="color: #2E68DB;">●</span>), which are then projected, via a speech projector <span style="color: #2E68DB;">$sp(\cdot)$</span>, onto the LLM input embedding space (<span style="color: #2E68DB;">▲</span>).
+    Similarly, we propose learning a new projection, <span style="color: #F99126;">$pp(\cdot)$</span>, able to project the original prompt embeddings (<span style="color: #881907;">▲</span>) onto higher-performing regions of the LLM input embedding space (<span style="color: #679B4E;">▲</span>).</em></p>
+</div>
+
+
+## 📘 More About This Work
+
 > [!IMPORTANT]
-> This repository contains the code for our paper on **Prompt Projector for LLM-based ASR**. Our work builds upon the [SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) framework, specifically extending the [ASR example](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/asr_librispeech) and is **based on a cloned version of the original repo**.
+> This repository contains the code for our paper on **Prompt Projector for LLM-based ASR** accepted to ICASSP 2026. Our work builds upon the [SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) framework, specifically extending the [ASR example](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/asr_librispeech) and is **based on a cloned version of the original repo**.
 >
 > **Quick Links:** [Extended Results](appendix.pdf) · [Scripts](scripts/README.md) · [Installation](#-installation) · [License](#-license)
-
-## 📘 About This Work
 
 ### 🧪 Abstract
 
