@@ -2,8 +2,8 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/idiap/llm-asr-prompt/refs/heads/main/inuition.png" height="400">
-  <p><em>In a typical LLM-based ASR system, speech is passed through a speech encoder and converted into a sequence of embeddings (<span style="color: #2E68DB;">●</span>), which are then projected, via a speech projector <span style="color: #2E68DB;">$sp(\cdot)$</span>, onto the LLM input embedding space (<span style="color: #2E68DB;">▲</span>).
-    Similarly, we propose learning a new projection, <span style="color: #F99126;">$pp(\cdot)$</span>, able to project the original prompt embeddings (<span style="color: #881907;">▲</span>) onto higher-performing regions of the LLM input embedding space (<span style="color: #679B4E;">▲</span>).</em></p>
+  <p><em>In a typical LLM-based ASR system, speech is passed through a speech encoder and converted into a sequence of embeddings (<span style="color: #2E68DB;">●</span>), which are then projected, via a speech projector <span style="color: #2E68DB;"><b>sp(•)</b></span>, onto the LLM input embedding space (<span style="color: #2E68DB;">▲</span>).
+    Similarly, we propose learning a new projection, <span style="color: #F99126;"><b>pp(•)</b></span>, able to project the original prompt embeddings (<span style="color: #881907;">▲</span>) onto higher-performing regions of the LLM input embedding space (<span style="color: #679B4E;">▲</span>).</em></p>
 </div>
 
 
