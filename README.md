@@ -1,4 +1,4 @@
-# Reducing Prompt Sensitivity in LLM-based Speech Recognition Through Learnable Projection
+# [Reducing Prompt Sensitivity in LLM-based Speech Recognition Through Learnable Projection](https://arxiv.org/pdf/2601.20898)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/idiap/llm-asr-prompt/refs/heads/main/inuition.png" height="400">
@@ -10,9 +10,9 @@
 ## 📘 More About This Work
 
 > [!IMPORTANT]
-> This repository contains the code for our paper on **Prompt Projector for LLM-based ASR** accepted to ICASSP 2026. Our work builds upon the [SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) framework, specifically extending the [ASR example](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/asr_librispeech) and is **based on a cloned version of the original repo**.
+> This repository contains the code for our paper on **Prompt Projector for LLM-based ASR**, accepted at **ICASSP 2026**. Our work builds upon the [SLAM-LLM](https://github.com/X-LANCE/SLAM-LLM) framework, specifically extending the [ASR example](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/asr_librispeech) and is **based on a cloned version of the original repo**.
 >
-> **Quick Links:** [Extended Results](appendix.pdf) · [Scripts](scripts/README.md) · [Installation](#-installation) · [License](#-license)
+> **Quick Links:** [ArXiv Paper](https://arxiv.org/pdf/2601.20898) · [Extended Results](appendix.pdf) · [Scripts](scripts/README.md) · [Installation](#-installation) · [License](#-license)
 
 ### 🧪 Abstract
 
