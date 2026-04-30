@@ -101,6 +101,23 @@ You need to prepare the data jsonl in this format.
 
 For more details on the base SLAM-LLM framework, please refer to the [README.md of the original repo](https://github.com/X-LANCE/SLAM-LLM/tree/main/examples/asr_librispeech).
 
+
+## 📚 Citation
+
+If you find our work useful, please consider citing it:
+
+```bibtex
+@INPROCEEDINGS{11464534,
+  title={Reducing Prompt Sensitivity in LLM-Based Speech Recognition Through Learnable Projection}, 
+  author={Burdisso, Sergio and Villatoro-Tello, Esaú and Kumar, Shashi and Madikeri, Srikanth and Carofilis, Andrés and Rangappa, Pradeep and E, Manjunath K and Hacioglu, Kadri and Motlicek, Petr and Stolcke, Andreas},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={16372-16376},
+  doi={10.1109/ICASSP55912.2026.11464534}}
+```
+
 ## 📄 License
 
 Our original code additions and modifications (including the prompt projector mechanism, enhanced prompt handling, new training configuration options, and PEFT extensions) are licensed under the MIT License. Portions of this repository remain under their original upstream licenses:
