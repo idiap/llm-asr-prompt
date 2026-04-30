@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="53.929 72.51 622.814 338.665" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="280.219" cy="224.172" r="157.741" id="gradient-0" spreadMethod="pad" gradientTransform="matrix(-0.088504, -0.295144, 0.456623, -0.136925, 165.551754, 278.625462)">
+      <stop offset="0" style="stop-color: rgb(23, 254, 0);"/>
+      <stop offset="1" style="stop-color: rgb(214, 26, 26);"/>
+    </radialGradient>
+    <marker id="marker-0" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true" markerWidth="10" markerHeight="10">
+      <path d="M 49.185 16.038 L 81.818 81.304 L 16.552 81.304 L 49.185 16.038 Z" bx:shape="triangle 16.552 16.038 65.266 65.266 0.5 0 1@1270fe55" style="transform-origin: 49.185px 48.671px 0px; stroke-width: 0px; stroke: rgb(0, 0, 0);" transform="matrix(0, 1, -1, 0, 0.815009, 1.329009)"/>
+    </marker>
+    <marker id="marker-1" viewBox="0 0 100 100" overflow="visible" orient="auto" refX="50" refY="50" bx:pinned="true" markerWidth="10" markerHeight="10">
+      <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px;" cx="50" cy="50" rx="25.214" ry="25.214"/>
+    </marker>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="351.864" cy="200.547" r="2.641" id="gradient-1">
+      <stop offset="0" style="stop-color: rgb(108, 142, 191)"/>
+      <stop offset="1" style="stop-color: rgb(18.315% 33.102% 50.625%)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="305.244" cy="229.592" r="2.641" id="gradient-2">
+      <stop offset="0" style="stop-color: rgb(108, 142, 191)"/>
+      <stop offset="1" style="stop-color: rgb(18.315% 33.102% 50.625%)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="264.599" cy="256.478" r="2.641" id="gradient-3">
+      <stop offset="0" style="stop-color: rgb(108, 142, 191)"/>
+      <stop offset="1" style="stop-color: rgb(18.315% 33.102% 50.625%)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="252.999" cy="168.788" r="2.641" id="gradient-4">
+      <stop offset="0" style="stop-color: rgb(16, 255, 0)"/>
+      <stop offset="1" style="stop-color: rgb(0% 57.757% 2.5192%)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="244.383" cy="166.148" r="2.641" id="gradient-5">
+      <stop offset="0" style="stop-color: rgb(16, 255, 0)"/>
+      <stop offset="1" style="stop-color: rgb(0% 57.757% 2.5192%)"/>
+    </radialGradient>
+    <radialGradient gradientUnits="userSpaceOnUse" cx="234.933" cy="167.816" r="2.641" id="gradient-6">
+      <stop offset="0" style="stop-color: rgb(16, 255, 0)"/>
+      <stop offset="1" style="stop-color: rgb(0% 57.757% 2.5192%)"/>
+    </radialGradient>
+    <style bx:fonts="Baskervville SC">@import url(https://fonts.googleapis.com/css2?family=Baskervville+SC%3Aital%2Cwght%400%2C400..700&amp;display=swap);</style>
+    <style bx:fonts="Advent Pro">@import url(https://fonts.googleapis.com/css2?family=Advent+Pro%3Aital%2Cwght%400%2C100..900%3B1%2C100..900&amp;display=swap);</style>
+    <style bx:fonts="Alegreya">@import url(https://fonts.googleapis.com/css2?family=Alegreya%3Aital%2Cwght%400%2C400..900%3B1%2C400..900&amp;display=swap);</style>
+    <bx:export>
+      <bx:file format="png" path="promptor-intuition.png" dpi="200"/>
+    </bx:export>
+  </defs>
+  <g style="pointer-events: none;">
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgba(0, 0, 0, 0.067);" d="M 104.208 220.015 C 82.833 216.961 257.632 193.128 257.632 193.128 C 295.658 181.861 372.743 214.882 372.19 215.046 C 392.819 227.57 324.076 284.955 323.971 284.891 C 325.107 286.06 247.003 346.943 191.002 294.827 C 181.692 277.021 137.096 228.007 104.208 220.015 Z"/>
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 2px; fill: url(&quot;#gradient-0&quot;); paint-order: fill; fill-rule: nonzero; opacity: 0.7;" d="M 131.97 185.822 C 131.981 185.858 73.107 182.018 66.216 159.813 C 66.877 144.617 100.147 153.822 101.868 156.89 C 117.444 163.639 172.528 178.901 192.463 170.919 C 238.528 148.496 269.965 100.142 304.098 101.073 C 361.926 116.127 378.722 154.361 381.542 170.626 C 385.47 221.036 314.411 267.192 309.359 271.156 C 304.307 275.12 264.19 296.072 210.582 271.156 C 168.521 252.038 136.897 177.135 101.869 156.891"/>
+    <path style="stroke: rgb(0, 0, 0); paint-order: fill; fill-rule: nonzero; opacity: 1; fill: rgb(65, 66, 65); stroke-width: 0px;" d="M 133.207 185.377 C 133.218 185.413 73.467 182.157 66.576 159.952 C 67.236 144.756 98.681 154.187 103.69 157.322"/>
+    <g style="opacity: 0.3;">
+      <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 192.755 171.795 C 233.751 154.784 261.54 133.385 293.87 102.826"/>
+      <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 108.883 158.936 C 107.763 159.261 179.231 191.678 226.655 177.932 C 260.719 170.071 324.689 107.067 322.802 107.502"/>
+      <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 143.075 199.557 C 142.036 199.817 210.723 228.381 254.71 217.384 C 303.499 207.969 359.624 132.342 359.624 132.342"/>
+      <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 161.194 171.795 C 183.251 179.239 234.533 250.27 249.45 281.969"/>
+      <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 303.806 274.078 C 302.385 274.078 247.053 159.672 192.463 171.503"/>
+      <path style="fill: none; stroke: rgb(0, 0, 0);" d="M 206.783 161.566 C 212.221 162.114 245.455 134.338 277.212 149 C 314.066 168.47 353.011 234.992 352.318 234.626"/>
+    </g>
+  </g>
+  <g transform="matrix(-1, 0, 0, 1, 739.343628, 85.478226)" style="pointer-events: none;">
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: rgba(0, 0, 0, 0.067);" d="M 104.208 220.015 C 82.833 216.961 257.632 193.128 257.632 193.128 C 295.658 181.861 372.743 214.882 372.19 215.046 C 392.819 227.57 324.076 284.955 323.971 284.891 C 325.107 286.06 247.003 346.943 191.002 294.827 C 181.692 277.021 137.096 228.007 104.208 220.015 Z"/>
+    <path style="stroke-width: 2px; paint-order: fill; fill-rule: nonzero; opacity: 1; fill: rgb(201, 218, 248); stroke: rgb(108, 142, 191);" d="M 131.97 185.822 C 131.981 185.858 73.107 182.018 66.216 159.813 C 66.877 144.617 100.147 153.822 101.868 156.89 C 117.444 163.639 172.528 178.901 192.463 170.919 C 238.528 148.496 269.965 100.142 304.098 101.073 C 361.926 116.127 378.722 154.361 381.542 170.626 C 385.47 221.036 314.411 267.192 309.359 271.156 C 304.307 275.12 264.19 296.072 210.582 271.156 C 168.521 252.038 136.897 177.135 101.869 156.891"/>
+    <path style="stroke: rgb(0, 0, 0); paint-order: fill; fill-rule: nonzero; opacity: 1; stroke-width: 0px; fill: rgb(108, 142, 191);" d="M 133.207 185.377 C 133.218 185.413 73.467 182.157 66.576 159.952 C 67.236 144.756 98.681 154.187 103.69 157.322"/>
+    <g style="opacity: 0.3;">
+      <path style="fill: none; stroke: rgb(108, 142, 191);" d="M 192.755 171.795 C 233.751 154.784 261.54 133.385 293.87 102.826"/>
+      <path style="fill: none; stroke: rgb(108, 142, 191);" d="M 108.883 158.936 C 107.763 159.261 179.231 191.678 226.655 177.932 C 260.719 170.071 324.689 107.067 322.802 107.502"/>
+      <path style="fill: none; stroke: rgb(108, 142, 191);" d="M 143.075 199.557 C 142.036 199.817 210.723 228.381 254.71 217.384 C 303.499 207.969 359.624 132.342 359.624 132.342"/>
+      <path style="fill: none; stroke: rgb(108, 142, 191);" d="M 161.194 171.795 C 183.251 179.239 234.533 250.27 249.45 281.969"/>
+      <path style="fill: none; stroke: rgb(108, 142, 191);" d="M 303.806 274.078 C 302.385 274.078 247.053 159.672 192.463 171.503"/>
+      <path style="fill: none; stroke: rgb(108, 142, 191);" d="M 206.783 161.566 C 212.221 162.114 245.455 134.338 277.212 149 C 314.066 168.47 353.011 234.992 352.318 234.626"/>
+    </g>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, 1.506259, -0.463464)">
+    <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: url(&quot;#gradient-1&quot;);" cx="351.864" cy="200.547" rx="2.641" ry="2.641"/>
+    <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: url(&quot;#gradient-2&quot;);" cx="305.244" cy="229.592" rx="2.641" ry="2.641"/>
+    <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: url(&quot;#gradient-3&quot;);" cx="264.599" cy="256.478" rx="2.641" ry="2.641"/>
+  </g>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: url(&quot;#gradient-6&quot;);" cx="234.933" cy="167.816" rx="2.641" ry="2.641"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: url(&quot;#gradient-5&quot;);" cx="244.383" cy="166.148" rx="2.641" ry="2.641"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 0px; fill: url(&quot;#gradient-4&quot;);" cx="252.999" cy="168.788" rx="2.641" ry="2.641"/>
+  <g>
+    <path style="fill: none; stroke: rgb(0, 0, 0); marker-end: url(&quot;#marker-0&quot;); marker-start: url(&quot;#marker-1&quot;);" d="M 334.667 141.888 C 330.708 121.374 265.722 80.41 253.664 164.317"/>
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 0px;" d="M 334.886 142.107 C 330.927 121.593 266.05 77.784 253.992 161.691 C 271.751 75.425 336.095 132.924 334.886 142.107 Z"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -44.417309, -17.443888)">
+    <path style="fill: none; stroke: rgb(0, 0, 0); marker-end: url(&quot;#marker-0&quot;); marker-start: url(&quot;#marker-1&quot;);" d="M 315.127 135.676 C 303.825 118.618 286.897 123.525 279.783 181.813"/>
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 0px;" d="M 315.127 135.676 C 303.825 118.618 286.897 123.525 279.783 181.813 C 283.528 157.9 293.922 109.909 315.127 135.676 Z"/>
+  </g>
+  <g transform="matrix(1, 0, 0, 1, -33.272602, -0.484553)">
+    <path style="fill: none; stroke: rgb(0, 0, 0); marker-end: url(&quot;#marker-0&quot;); marker-start: url(&quot;#marker-1&quot;);" d="M 326.79 129.197 C 322.831 108.683 286.252 49.751 278.016 162.38"/>
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 0px;" d="M 326.79 129.197 C 322.831 108.683 286.58 49.422 278.344 162.051 C 287.63 50.621 327.535 120.252 326.79 129.197 Z"/>
+  </g>
+  <g style="opacity: 0.7;">
+    <path style="stroke: rgb(0, 0, 0); marker-end: url(&quot;#marker-0&quot;); fill: none; marker-start: url(&quot;#marker-1&quot;);" d="M 497.856 298.903 C 489.551 265.43 434.679 119.347 356.348 196.844"/>
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 0px;" d="M 497.856 298.903 C 489.551 265.43 434.679 119.347 356.348 196.844 C 441.549 125.213 492.257 283.133 497.856 298.903 Z"/>
+  </g>
+  <g style="opacity: 0.7;">
+    <path style="fill: none; stroke: rgb(0, 0, 0); marker-end: url(&quot;#marker-0&quot;); marker-start: url(&quot;#marker-1&quot;);" d="M 412.967 262.608 C 389.503 220.15 380.389 200.798 310.481 227.874"/>
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 0px;" d="M 412.967 262.608 C 389.503 220.15 380.389 200.798 310.481 227.874 C 336.532 218.184 362.235 213.95 375.417 219.055 C 393.107 225.906 405.07 250.617 412.967 262.608 Z"/>
+  </g>
+  <g style="opacity: 0.7;">
+    <path style="fill: none; stroke: rgb(0, 0, 0); marker-end: url(&quot;#marker-0&quot;); marker-start: url(&quot;#marker-1&quot;);" d="M 442.967 312.608 C 442.966 312.605 387.712 235.781 268.869 256.004"/>
+    <path style="stroke: rgb(0, 0, 0); stroke-width: 0px;" d="M 442.967 312.608 C 442.966 312.605 387.712 235.781 268.869 256.004 C 385.156 239.327 442.967 312.608 442.967 312.608 Z"/>
+  </g>
+  <text style="fill: rgb(51, 51, 51); font-family: &quot;Alegreya&quot;; font-size: 13px; font-style: italic; white-space: pre;" x="389.359" y="162.494">Speech projection</text>
+  <text style="font-family: &quot;Alegreya&quot;; font-size: 13px; font-style: italic; font-weight: 572; white-space: pre;" x="232.552" y="88.135">Prompt projection</text>
+  <text style="fill: rgb(108, 142, 191); font-family: &quot;Baskervville SC&quot;; font-size: 28px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, 83.123642, 0.377835)"><tspan x="498.929" y="203.677">Speech Space</tspan><tspan x="498.929" dy="0.5em">​</tspan><tspan style="font-size: 19px;">(speech embeddings)</tspan></text>
+  <text style="fill: rgba(159, 61, 61, 0.72); font-family: &quot;Baskervville SC&quot;; font-size: 28px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, -353.961304, -77.101364)"><tspan x="498.929" y="203.677">Prompt Space</tspan><tspan x="498.929" dy="0.5em">​</tspan><tspan style="font-size: 19px;">(token embeddings)</tspan></text>
+  <text style="fill: rgba(51, 51, 51, 0.384); font-family: &quot;Advent Pro&quot;; font-size: 15px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, 87.657661, -13.602051)"><tspan x="387.091" y="403.552">Speech Encoder</tspan><tspan x="387.091" dy="1em">​</tspan><tspan>(Output)</tspan></text>
+  <text style="fill: rgba(51, 51, 51, 0.384); font-family: &quot;Advent Pro&quot;; font-size: 15px; text-anchor: middle; white-space: pre;" transform="matrix(1, 0, 0, 1, 52.896854, -14.357723)"><tspan x="198.928" y="317.782">LLM</tspan><tspan x="198.928" dy="1em">​</tspan><tspan>(Input)</tspan></text>
+</svg>
