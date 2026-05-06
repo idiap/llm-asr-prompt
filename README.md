@@ -1,9 +1,23 @@
-# [Reducing Prompt Sensitivity in LLM-based Speech Recognition Through Learnable Projection](https://arxiv.org/pdf/2601.20898)
+# Reducing Prompt Sensitivity in LLM-based Speech Recognition Through Learnable Projection
+
+<p align="center">
+  <a href="https://arxiv.org/pdf/2601.20898">
+    <img src="https://img.shields.io/badge/arXiv-2601.20898-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="ArXiv Paper"/>
+  </a>
+  &nbsp;
+  <a href="https://ieeexplore.ieee.org/document/11464534">
+    <img src="https://img.shields.io/badge/IEEE-Paper-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE Paper"/>
+  </a>
+  &nbsp;
+  <a href="https://docs.google.com/presentation/d/1kF8BxkR0XKOQ8Gmwb5nn8FxXORJrKnVpCdGRzQ4sLBg/edit?usp=sharing">
+    <img src="https://img.shields.io/badge/Slides-Google%20Slides-FBBC04?style=flat-square&logo=google-slides&logoColor=white" alt="Slides"/>
+  </a>
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/idiap/llm-asr-prompt/refs/heads/main/intuition.png">
-  <p><em>In a typical LLM-based ASR system, speech is passed through a speech encoder and converted into a sequence of embeddings (<span style="color: #2E68DB;">●</span>), which are then projected, via a speech projector <span style="color: #2E68DB;"><b>sp(•)</b></span>, onto the LLM input embedding space (<span style="color: #2E68DB;">▲</span>).
-    Similarly, we propose learning a new projection, <span style="color: #F99126;"><b>pp(•)</b></span>, able to project the original prompt embeddings (red <span style="color: #881907;">▲</span>) onto higher-performing regions of the LLM input embedding space (green <span style="color: #679B4E;">▲</span>).</em></p>
+  <p><em>In a typical LLM-based ASR system, speech is passed through a speech encoder and converted into a sequence of embeddings, which are then projected, via a speech projector, onto the LLM input embedding space.
+    Similarly, we propose learning a new projection able to project the original prompt embeddings onto higher-performing regions of the LLM input embedding space (green zone above).</em></p>
 </div>
 
 
